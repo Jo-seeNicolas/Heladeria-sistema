@@ -1,5 +1,8 @@
 # Sistema de Control Administrativo - Heladería y Cafetería
 
+## 🎯 Objetivo
+Este sistema fue desarrollado para digitalizar y optimizar la gestión de ventas, inventario y clientes de una heladería y cafetería real.
+
 ## 📌 Descripción
 Sistema web desarrollado en PHP y MySQL para la gestión de ventas, inventario, clientes y facturación de una heladería y cafetería.
 
@@ -32,6 +35,12 @@ El archivo de la base de datos se encuentra en el repositorio como:
 heladeria.sql
 
 Debe ser importado en phpMyAdmin antes de ejecutar el sistema.
+
+## 🧠 Aprendizajes
+- Desarrollo de sistemas CRUD con PHP
+- Manejo de bases de datos relacionales (MySQL)
+- Implementación de autenticación de usuarios
+- Organización de un sistema modular
 
 ## 👨‍💻 Autor
 Nicolás Alba
