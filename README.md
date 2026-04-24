@@ -26,5 +26,12 @@ Sistema web desarrollado en PHP y MySQL para la gestión de ventas, inventario, 
 5. Abrir en el navegador:
    http://localhost/heladeria-sistema
 
+## 🧾 Base de datos
+El archivo de la base de datos se encuentra en el repositorio como:
+
+heladeria.sql
+
+Debe ser importado en phpMyAdmin antes de ejecutar el sistema.
+
 ## 👨‍💻 Autor
 Nicolás Alba
